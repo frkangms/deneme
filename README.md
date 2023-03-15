@@ -4,5 +4,3 @@
 jhfjdgjgf
 fdkjgkf
 fdgdfg
-
-[loremipsum] (http://google.com)
